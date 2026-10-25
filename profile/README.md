@@ -1,16 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1a1a,100:2d2d2d&height=160&section=header&text=WEAION%20Labs&fontSize=52&fontColor=ffffff&fontAlignY=45&desc=Engineering%20practice.%20Five%20disciplines.%20One%20accountable%20team.&descAlignY=70&descSize=14&animation=fadeIn" width="100%" alt="WEAION Labs" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1917,100:2a2927&height=160&section=header&text=WEAION%20Labs&fontSize=52&fontColor=fffefa&fontAlignY=45&desc=Engineering%20practice.%20Five%20disciplines.%20One%20accountable%20team.&descAlignY=70&descSize=14&animation=fadeIn" width="100%" alt="WEAION Labs" />
 
 <br>
 
-[![Website](https://img.shields.io/badge/Website-weaionlabs.com-333333?style=flat-square&logo=googlechrome&logoColor=white)](https://weaionlabs.com)
-[![Email](https://img.shields.io/badge/Email-hello%40weaionlabs.com-333333?style=flat-square&logo=gmail&logoColor=white)](mailto:hello@weaionlabs.com)
-[![GitHub](https://img.shields.io/badge/GitHub-weaion--labs-333333?style=flat-square&logo=github&logoColor=white)](https://github.com/weaion-labs)
+[![Website](https://img.shields.io/badge/Website-weaionlabs.com-242321?style=flat-square&logo=googlechrome&logoColor=fffefa)](https://weaionlabs.com)
+[![Email](https://img.shields.io/badge/Email-hello%40weaionlabs.com-242321?style=flat-square&logo=gmail&logoColor=fffefa)](mailto:hello@weaionlabs.com)
+[![GitHub](https://img.shields.io/badge/GitHub-weaion--labs-242321?style=flat-square&logo=github&logoColor=fffefa)](https://github.com/weaion-labs)
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=3000&pause=1000&color=333333&center=true&vCenter=true&width=500&lines=Consulting+%26+Advisory;ERP+Systems;Cybersecurity;App+Development;Web+Development" alt="Typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=3000&pause=1000&color=242321&center=true&vCenter=true&width=500&lines=Consulting+%26+Advisory;ERP+Systems;Cybersecurity;App+Development;Web+Development" alt="Typing animation" />
 
 </div>
 
@@ -147,7 +147,7 @@ We build things and share them. Here's what's public:
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2d2d2d,100:1a1a1a&height=80&section=footer&text=WEAION%20Labs%20%C2%B7%20weaionlabs.com%20%C2%B7%202026&fontSize=14&fontColor=888888&fontAlignY=50" width="100%" alt="Footer" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2a2927,100:1a1917&height=80&section=footer&text=WEAION%20Labs%20%C2%B7%20weaionlabs.com%20%C2%B7%202026&fontSize=14&fontColor=878684&fontAlignY=50" width="100%" alt="Footer" />
 
 *Built by people who care about the whole thing.*
 
