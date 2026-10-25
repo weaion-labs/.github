@@ -1,12 +1,16 @@
 <div align="center">
 
-# WEAION Labs
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f23,50:1a1a3e,100:2d1b69&height=200&section=header&text=WEAION%20Labs&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=Five%20disciplines.%20One%20team.%20One%20point%20of%20accountability.&descAlignY=55&descSize=16&animation=fadeIn" width="100%" alt="WEAION Labs header" />
 
-**Five disciplines. One team. One point of accountability.**
+<br>
 
-[![Website](https://img.shields.io/badge/Website-weaionlabs.com-blue?style=for-the-badge)](https://weaionlabs.com)
-[![Email](https://img.shields.io/badge/Email-hello%40weaionlabs.com-red?style=for-the-badge)](mailto:hello@weaionlabs.com)
-[![GitHub](https://img.shields.io/badge/GitHub-weaion--labs-black?style=for-the-badge&logo=github)](https://github.com/weaion-labs)
+[![Website](https://img.shields.io/badge/Website-weaionlabs.com-6366f1?style=for-the-badge&logo=googlechrome&logoColor=white)](https://weaionlabs.com)
+[![Email](https://img.shields.io/badge/Email-hello%40weaionlabs.com-ef4444?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@weaionlabs.com)
+[![GitHub](https://img.shields.io/badge/GitHub-weaion--labs-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/weaion-labs)
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Consulting+%26+Advisory;ERP+Systems;Cybersecurity;App+Development;Web+Development;One+team.+One+invoice.+One+accountable+person." alt="Typing animation" />
 
 </div>
 
@@ -18,7 +22,7 @@
 
 ## Who we are
 
-WEAION Labs is an engineering practice. We do **consultation**, **ERP**, **cybersecurity**, **app development**, and **web development** — and we stay accountable for the whole of it.
+**WEAION Labs** is an engineering practice. We do **consultation**, **ERP**, **cybersecurity**, **app development**, and **web development** — and we stay accountable for the whole of it.
 
 Most problems don't respect the boundaries between these disciplines. Neither do we.
 
@@ -142,6 +146,8 @@ We build things and share them. Here's what's public:
 <br>
 
 <div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2d1b69,50:1a1a3e,100:0f0f23&height=120&section=footer&animation=fadeIn" width="100%" alt="Footer wave" />
 
 **WEAION Labs** · [weaionlabs.com](https://weaionlabs.com) · 2026
 
