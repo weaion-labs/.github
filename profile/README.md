@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1917,100:2a2927&height=160&section=header&text=WEAION%20Labs&fontSize=52&fontColor=fffefa&fontAlignY=45&desc=Engineering%20practice.%20Five%20disciplines.%20One%20accountable%20team.&descAlignY=70&descSize=14&animation=fadeIn" width="100%" alt="WEAION Labs" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:fffefa,100:f2f0ea&height=160&section=header&text=WEAION%20Labs&fontSize=52&fontColor=242321&fontAlignY=45&desc=Engineering%20practice.%20Five%20disciplines.%20One%20accountable%20team.&descAlignY=70&descSize=14&animation=fadeIn" width="100%" alt="WEAION Labs" />
 
 <br>
 
-[![Website](https://img.shields.io/badge/Website-weaionlabs.com-242321?style=flat-square&logo=googlechrome&logoColor=fffefa)](https://weaionlabs.com)
-[![Email](https://img.shields.io/badge/Email-hello%40weaionlabs.com-242321?style=flat-square&logo=gmail&logoColor=fffefa)](mailto:hello@weaionlabs.com)
-[![GitHub](https://img.shields.io/badge/GitHub-weaion--labs-242321?style=flat-square&logo=github&logoColor=fffefa)](https://github.com/weaion-labs)
+[![Website](https://img.shields.io/badge/Website-weaionlabs.com-fffefa?style=flat-square&logo=googlechrome&logoColor=242321)](https://weaionlabs.com)
+[![Email](https://img.shields.io/badge/Email-hello%40weaionlabs.com-fffefa?style=flat-square&logo=gmail&logoColor=242321)](mailto:hello@weaionlabs.com)
+[![GitHub](https://img.shields.io/badge/GitHub-weaion--labs-fffefa?style=flat-square&logo=github&logoColor=242321)](https://github.com/weaion-labs)
 
 <br>
 
@@ -147,7 +147,7 @@ We build things and share them. Here's what's public:
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2a2927,100:1a1917&height=80&section=footer&text=WEAION%20Labs%20%C2%B7%20weaionlabs.com%20%C2%B7%202026&fontSize=14&fontColor=878684&fontAlignY=50" width="100%" alt="Footer" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:f2f0ea,100:fffefa&height=80&section=footer&text=WEAION%20Labs%20%C2%B7%20weaionlabs.com%20%C2%B7%202026&fontSize=14&fontColor=6b6a68&fontAlignY=50" width="100%" alt="Footer" />
 
 *Built by people who care about the whole thing.*
 
