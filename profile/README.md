@@ -18,7 +18,7 @@
 
 ## Who we are
 
-WEAION Labs is a four-person engineering practice. We do **consultation**, **ERP**, **cybersecurity**, **app development**, and **web development** — and we stay accountable for the whole of it.
+WEAION Labs is an engineering practice. We do **consultation**, **ERP**, **cybersecurity**, **app development**, and **web development** — and we stay accountable for the whole of it.
 
 Most problems don't respect the boundaries between these disciplines. Neither do we.
 
@@ -98,7 +98,7 @@ Websites, web applications, and integrations. Fast, accessible, maintainable —
 
 - No handoff between a consultancy that advises, a firm that secures, and a shop that builds
 - When a decision has an unexpected consequence, there's nobody to pass it to
-- You work with the four people who do the work — not a sales team and an offshore floor
+- You work with the people who do the work — not a sales team and an offshore floor
 
 <br>
 
@@ -145,6 +145,6 @@ We build things and share them. Here's what's public:
 
 **WEAION Labs** · [weaionlabs.com](https://weaionlabs.com) · 2026
 
-*Built by four people who care about the whole thing.*
+*Built by people who care about the whole thing.*
 
 </div>
