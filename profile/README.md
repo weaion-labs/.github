@@ -1,16 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:fffefa,100:f2f0ea&height=160&section=header&text=WEAION%20Labs&fontSize=52&fontColor=242321&fontAlignY=45&desc=Engineering%20practice.%20Five%20disciplines.%20One%20accountable%20team.&descAlignY=70&descSize=14&animation=fadeIn" width="100%" alt="WEAION Labs" />
+<img src="https://raw.githubusercontent.com/weaion-labs/.github/main/profile/assets/logo.png" width="440" alt="Weaion Labs" />
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=3000&pause=1000&color=242321&center=true&vCenter=true&width=500&lines=Consulting+%26+Advisory;ERP+Systems;Cybersecurity;App+Development;Web+Development" alt="Typing animation" />
 
 <br>
 
 [![Website](https://img.shields.io/badge/Website-weaionlabs.com-fffefa?style=flat-square&logo=googlechrome&logoColor=242321)](https://weaionlabs.com)
 [![Email](https://img.shields.io/badge/Email-hello%40weaionlabs.com-fffefa?style=flat-square&logo=gmail&logoColor=242321)](mailto:hello@weaionlabs.com)
 [![GitHub](https://img.shields.io/badge/GitHub-weaion--labs-fffefa?style=flat-square&logo=github&logoColor=242321)](https://github.com/weaion-labs)
-
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=3000&pause=1000&color=242321&center=true&vCenter=true&width=500&lines=Consulting+%26+Advisory;ERP+Systems;Cybersecurity;App+Development;Web+Development" alt="Typing animation" />
 
 </div>
 
